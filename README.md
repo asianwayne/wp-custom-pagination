@@ -4,7 +4,6 @@ wordpress自定义样式分页，
 
 <div class="row justify-content-center">
 				<div class="col-lg-10">
-          
            <div class="row">
 <div class="col-md-4 col-xs-8 text-center">
   <ul class="page-nav text-center list-inline">
@@ -21,5 +20,4 @@ wordpress自定义样式分页，
 </div>
 </div>
           
-				</div>
-			</div>
+				
